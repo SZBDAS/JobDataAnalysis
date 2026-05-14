@@ -141,9 +141,7 @@ python spider.py
 
 ## 项目截图
 
-![项目截图1](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-![项目截图2](https://via.placeholder.com/800x400?text=Salary+Analysis+Screenshot)
-![项目截图3](https://via.placeholder.com/800x400?text=Job+Match+Screenshot)
+见images文件夹
 
 ## API 接口示例
 
